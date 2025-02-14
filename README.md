@@ -9,6 +9,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="materials/gaussian.gif" width="600" />
 </div>
+
 ### PRIMME trained with Monte Carlo Potts
 
 ### PRIMME trained with phase field
