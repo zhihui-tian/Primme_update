@@ -7,7 +7,7 @@
 ## Demo
 ### PRIMME trained with mode filter
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/gaussian.gif" width="600" />
+  <img src="materials/mf.gif" width="600" />
 </div>
 
 ### PRIMME trained with Monte Carlo Potts
