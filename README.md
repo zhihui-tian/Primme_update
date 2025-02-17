@@ -12,7 +12,7 @@
 
 - PRIMME trained with Monte Carlo Potts
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mf_incl.gif" width="600" />
+  <img src="materials/mcp.gif" width="600" />
 </div>
 
 - PRIMME trained with phase field
@@ -26,3 +26,6 @@
 </div>
 
 - inclination-dependent MCP PRIMME
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="materials/mcp_incl.gif" width="600" />
+</div>
