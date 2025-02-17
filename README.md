@@ -7,9 +7,9 @@
 ## Demo
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mf.gif" width="300" />
-  <img src="materials/mcp.gif" width="300" />
-  <img src="materials/phase_field.gif" width="300" />
+  <img src="materials/mf.gif" width="260" />
+  <img src="materials/mcp.gif" width="260" />
+  <img src="materials/phase_field.gif" width="260" />
 </div>
 <p align="middle">
     <em >Training on mode filter(left), Training on MCP(mid) and Training on phase field (right).</em>
