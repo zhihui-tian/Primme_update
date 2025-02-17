@@ -1,12 +1,13 @@
 
 ## Usage
 Use the following command to install pre-requirement packages
-
 ```bash
 pip install -r requirements.txt
 ```
+
+Running the PRIMME
 ```python
-fs.train_primme() is used to train PRIMME on different dataset, it can be phase field, mode filter or MCP
+python run.py
 ```
 
 ## Demo
