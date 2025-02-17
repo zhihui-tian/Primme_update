@@ -3,7 +3,7 @@
 Use the following command to install pre-requirement packages
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Demo
