@@ -1,8 +1,10 @@
-"# Primme_update" 
-
-## 
 
 ## Usage
+Use the following command to install pre-requirement packages
+
+```bash
+pip install requirements.txt
+```
 
 ## Demo
 ### Isotropic Case
