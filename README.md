@@ -17,7 +17,7 @@
 
 - PRIMME trained with phase field
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/phase_field.gif" width=600" />
+  <img src="materials/phase_field.gif" width=450" />
 </div>
 
 - inclination-dependent MF PRIMME
