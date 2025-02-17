@@ -26,13 +26,3 @@
 </p>
 <be>
 
-  
-- inclination-dependent MF PRIMME
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mf_incl.gif" width="600" />
-</div>
-
-- inclination-dependent MCP PRIMME
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mcp_incl.gif" width="600" />
-</div>
