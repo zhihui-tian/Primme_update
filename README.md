@@ -1,4 +1,4 @@
-
+:fire: ***Join us for the development of PRIMME! This project is under active development!***
 ## Usage
 Use the following command to install pre-requirement packages
 ```bash
