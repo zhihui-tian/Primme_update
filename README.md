@@ -11,21 +11,10 @@
   <img src="materials/mcp.gif" width="260" />
   <img src="materials/phase_field.gif" width="260" />
 </div>
-
-- PRIMME trained with mode filter
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mf.gif" width="600" />
-</div>
-
-- PRIMME trained with Monte Carlo Potts
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/mcp.gif" width="600" />
-</div>
-
-- PRIMME trained with phase field
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/phase_field.gif" width="600" />
-</div>
+<p align="middle">
+    <em >Training on mode filter(left), Training on MCP(mid) and Training on phase field (right).</em>
+</p>
+<br>
 
 - inclination-dependent MF PRIMME
 <div style="display: flex; justify-content: center; align-items: center;">
